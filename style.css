@@ -1,5 +1,6 @@
 /*Import font*/
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');*/ /*Poppins is actually out-dated idk idk*/
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 
 /*Background and font*/
 body {
