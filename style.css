@@ -5,7 +5,8 @@
 /*Background and font*/
 body {
     background-color: rgb(33, 33, 33);
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    /*font-family: 'Poppins', sans-serif;*/
     color: rgb(226, 225, 225);
   }
 
